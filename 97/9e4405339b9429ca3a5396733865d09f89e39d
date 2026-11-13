@@ -1,0 +1,18 @@
+servers/adaptlypost-remote/readme.md
+  h_d76ceef5a88fa0 1
+servers/adaptlypost-remote/server.yaml
+  h_d76ceef5a88fa0 1-22
+servers/adaptlypost-remote/tools.json
+  h_d76ceef5a88fa0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "979e4405339b9429ca3a5396733865d09f89e39d",
+  "prompts": {},
+  "humans": {
+    "h_d76ceef5a88fa0": {
+      "author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}

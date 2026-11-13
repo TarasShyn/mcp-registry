@@ -1,0 +1,18 @@
+servers/redreplier-remote/readme.md
+  h_d76ceef5a88fa0 1
+servers/redreplier-remote/server.yaml
+  h_d76ceef5a88fa0 1-22
+servers/redreplier-remote/tools.json
+  h_d76ceef5a88fa0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a3773c065c1ad2669e59226edba44ca9494d169",
+  "prompts": {},
+  "humans": {
+    "h_d76ceef5a88fa0": {
+      "author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
